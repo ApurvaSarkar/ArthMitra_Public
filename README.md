@@ -1,10 +1,10 @@
 # ArthMitra Project Report
 
 ### Project Video
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](D:\code\college\ArthMitra\ArthMitra_Public\forReadme\ArthMitraFinal.mp4)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](forReadme\ArthMitraFinal.mp4)
 
 ### WorkFlow Diagram
-![WorkFlow Diagram](D:\code\college\ArthMitra\ArthMitra_Public\forReadme\Workflow.png)
+![WorkFlow Diagram](forReadme\Workflow.png)
 
 ## Chapter 1: Introductions
 
