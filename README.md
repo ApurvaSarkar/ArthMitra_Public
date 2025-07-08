@@ -30,4 +30,4 @@ Many individuals struggle with tracking their expenses, understanding their spen
 - AI-powered financial assistant chatbot
 - SMS scanning for transaction extraction
 - Cross-platform compatibility (iOS, Android, web)
-Please Continue By reading the full project report in forReadme/ArthMitra, Your Personalized Financial Khata.pdf
+# Please Continue By reading the full project report in forReadme/ArthMitra, Your Personalized Financial Khata.pdf
